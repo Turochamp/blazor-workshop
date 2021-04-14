@@ -4,7 +4,7 @@ In this session, you'll get started building a pizza store app using Blazor. The
 
 ## Pizza store starting point
 
-We've set up the initial solution for you for the pizza store app in this repo. Go ahead and clone this repo to your machine. You'll find the [starting point](https://github.com/Turochamp/blazor-workshop/blazor-workshop/tree/master/save-points/00-get-started) in the *save-points* folder along with the end state for each session.
+We've set up the initial solution for you for the pizza store app in this repo. Go ahead and clone this repo to your machine. You'll find the [starting point](https://github.com/Turochamp/blazor-workshop/tree/master/save-points/00-get-started) in the *save-points* folder along with the end state for each session.
 
 > Note: If you copy the code from this workshop to a different location on your machine, be sure to also copy the *Directory.Build.props* file at the root of this repo in order to restore the appropriate package versions.
 
